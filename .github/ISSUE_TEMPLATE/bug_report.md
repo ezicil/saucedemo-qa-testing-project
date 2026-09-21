@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Шаблон баг-репорта для проекта тестирования SauceDemo
+about: Шаблон баг-репорта
 title: "[BUG] "
 labels: bug
 assignees: ''
